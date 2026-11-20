@@ -1,6 +1,10 @@
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/tranquilnaturevista-code/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/tranquilnaturevista-code/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+
 # GTA 6's Wildest Moments — a Short for make.fun
 
-An entry for the make.fun bounty **"Clip GTA 6 for the most YouTube views"**:
+An entry for the make.fun bounty **"Clip GTA 6 for the most YouTube views"** ([bounty page](https://make.fun/bounty/gta6-clipper-01)):
 the top 20 most-watched videos share $500. This repository holds the clip
 (`clip.mp4`), the program that reproduces it (`main.ts`), and the video's
 address (`VIDEO.json`, filled in once the clip is on YouTube).
